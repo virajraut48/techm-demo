@@ -1,3 +1,3 @@
 ## Techm-demo
 This is my tech m git repository
-Author - Viraj Raut
+Author - Viraj Raut Tech M
